@@ -1,10 +1,9 @@
 # Sikorin Stepan
-Phone: +375291328350
-I'm here!
+Phone: [+375291328350](tel:+375291328350)  
 ***
 ## Social Media
-* Telegram
-* Email
+* [Telegram](https://t.me/Seris354)  
+* [Email](mailto:Unnamed321123@mail.ru)
 ***
 ## About Me
 I'm a passionate and motivated individual who loves
@@ -39,14 +38,12 @@ opportunities to grow both personally and professionally.
      }
 ```          
 ***
-##Completed projects
+## Completed projects
 This CV
 Courses completed
 Young programmer
 Programming at 100%
 Git specialist
-English: B2
+English: Intermediate В1
 ***
-My avatar
-
-All copyrights reserved
+## My avatar
