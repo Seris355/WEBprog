@@ -47,3 +47,4 @@ Git specialist
 English: Intermediate В1
 ***
 ## My avatar
+![image](./avatar.jfif)
