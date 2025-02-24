@@ -20,7 +20,7 @@ opportunities to grow both personally and professionally.
 * Piano player
 ***
 ## My creations
-'''
+```
  for (int i = 0; i less than - 1; i++)
  {
  for (int j = 0; j less than - i - 1; j++)
@@ -37,7 +37,7 @@ opportunities to grow both personally and professionally.
       {
        Console.Write(arr[i] + " ");
      }
-'''             
+```          
 ***
 ##Completed projects
 This CV
