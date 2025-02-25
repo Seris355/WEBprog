@@ -40,11 +40,13 @@ opportunities to grow both personally and professionally.
 ***
 ## Completed projects
 This CV
-Courses completed
-Young programmer
-Programming at 100%
-Git specialist
-English: Intermediate В1
+***
+## Courses completed
+* Young programmer
+* Programming at 100%
+* Git specialist
+***
+## English: Intermediate В1
 ***
 ## My avatar
 ![image](./avatar.jfif)
